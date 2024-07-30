@@ -1,5 +1,6 @@
-postgis/postgis:16-3.4-alpine
-postgis/postgis:14-3.4-alpine
-postgis/postgis:15-master
-postgis/postgis:15-3.4
-postgis/postgis:16-3.4
+mysql:8.4.2
+mongo:latest
+mongo:7.0.12
+ubuntu:16.04
+ubuntu:20.04
+ubuntu:22.04
