@@ -1,6 +1,1 @@
-mysql:8.4.2
-mongo:latest
-mongo:7.0.12
-ubuntu:16.04
-ubuntu:20.04
-ubuntu:22.04
+zlmediakit/zlmediakit:master
