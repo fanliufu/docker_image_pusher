@@ -1,1 +1,1 @@
-zlmediakit/zlmediakit:master
+centos:8.2.2004
