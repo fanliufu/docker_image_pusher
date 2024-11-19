@@ -1,1 +1,2 @@
-centos:latest
+hxsoong/kylin 
+
