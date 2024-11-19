@@ -1,1 +1,1 @@
-kylinv10/kylin
+ubuntu:latest
