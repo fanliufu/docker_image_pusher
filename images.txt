@@ -1,1 +1,1 @@
-ubuntu:latest
+jrei/systemd-ubuntu:22.04
