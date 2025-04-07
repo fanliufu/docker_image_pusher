@@ -1,1 +1,5 @@
-jrei/systemd-ubuntu:22.04
+rabbitmq:3.10.0-management
+rabbitmq:3.10.0-management-alpine
+rabbitmq:management-alpine
+rabbitmq:management
+rabbitmq:4.0.8-management
