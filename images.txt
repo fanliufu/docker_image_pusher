@@ -1,5 +1,5 @@
-docker pull bitnamilegacy/pgpool:4.5.4-debian-12-r2
-docker pull bitnamilegacy/postgres-exporter:0.15.0-debian-12-r44
-docker pull bitnamilegacy/os-shell:12-debian-12-r31
+bitnamilegacy/pgpool:4.5.4-debian-12-r2
+bitnamilegacy/postgres-exporter:0.15.0-debian-12-r44
+bitnamilegacy/os-shell:12-debian-12-r31
 
 
