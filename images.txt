@@ -1,5 +1,2 @@
-pgpool/pgpool:4.0.23
-pgpool/pgpool:latest
-pgpool/pgpool:4.4.2
-
+bitnamilegacy/pgpool:4.4.5
 
